@@ -1,0 +1,21 @@
+.wrapper-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .logo {
+        display: block;
+        cursor: pointer;
+    }
+
+    .user {
+        cursor: pointer;
+
+        padding: 0 10px;
+    }
+
+    .out {
+        cursor: pointer;
+
+    }
+}
